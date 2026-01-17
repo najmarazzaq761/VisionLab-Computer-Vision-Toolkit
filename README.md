@@ -1,4 +1,4 @@
-# Computer Vision Streamlit App
+# VisionLab – Interactive Computer Vision Toolkit
 
 I've developed a Streamlit app 
 
